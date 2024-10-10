@@ -12,7 +12,7 @@ export default function Footer() {
               height={40}
             />
             <div className='mt-2 line-height-3'>
-              © 2021 Bastion, Inc. All rights reserved
+              © 2024 Bastion, Inc. All rights reserved
             </div>
           </div>
           <div className='mt-3 sm:mt-0'>
